@@ -1,0 +1,11 @@
+*.mod*
+*.cmd
+*.log
+*.ko
+*.o
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+built-in.a
